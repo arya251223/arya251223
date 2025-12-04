@@ -21,29 +21,19 @@
 
 </div>
 
-```yaml
-name: Aryan Kamble
-role: AI & ML Engineering Student
-education: 
-  degree: Bachelor's in AI & Data Science
-  cgpa: 8.2 / 10.0
-  institution: KLE College of Engineering and Technology, Belagavi
-  duration: 2022 - 2026
+I'm **Aryan Kamble**, an AI & ML Engineering student passionate about building intelligent systems that solve real-world problems. Currently pursuing my **Bachelor's in AI & Data Science** (CGPA: **8.2/10.0**) at KLE College of Engineering and Technology, Belagavi (2022-2026).
 
-current_status: Actively seeking AI/ML Engineer Internships & Entry-Level Positions
-location: Belagavi, Karnataka, India
+🎯 **Current Status:** Actively seeking **AI/ML Engineer Internships & Entry-Level Positions**
 
-core_expertise:
-  - Deep Learning & Neural Network Architectures
-  - Generative AI & Large Language Models
-  - Multi-Agent Systems & Orchestration
-  - End-to-End ML Pipeline Development
+💡 **Core Expertise:**
+- 🧠 Deep Learning & Neural Network Architectures
+- 🎨 Generative AI & Large Language Models  
+- 🤖 Multi-Agent Systems & Orchestration
+- 🔧 End-to-End ML Pipeline Development
 
-philosophy: |
-  "Driven by curiosity, powered by consistency, 
-   and motivated by the thrill of building intelligent systems 
-   that solve real-world problems."
-```
+✨ **Philosophy:** *"Driven by curiosity, powered by consistency, and motivated by the thrill of building intelligent systems that solve real-world problems."*
+
+📍 **Location:** Belagavi, Karnataka, India
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
@@ -271,25 +261,6 @@ Empathetic AI assistant providing **personalized mental health support** using a
 - 🤖 Specialized in **multi-agent systems**, **deep learning**, and **GenAI applications**
 - 📚 Continuous learning through hands-on implementation of cutting-edge AI technologies
 - 🏆 Built portfolio demonstrating expertise in **LLMs**, **neural networks**, and **intelligent automation**
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<br>
-
-## 📊 GitHub Analytics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=arya251223&show_icons=true&theme=solarized-dark&hide_border=true&bg_color=002b36&title_color=2aa198&icon_color=859900&text_color=93a1a1&rank_icon=github" alt="GitHub Stats" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arya251223&layout=compact&theme=solarized-dark&hide_border=true&bg_color=002b36&title_color=2aa198&text_color=93a1a1" alt="Top Languages" height="180"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=arya251223&theme=solarized-dark&hide_border=true&background=002b36&ring=2aa198&fire=cb4b16&currStreakLabel=2aa198&sideLabels=93a1a1" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=arya251223&theme=react-dark&bg_color=002b36&color=2aa198&line=859900&point=93a1a1&area=true&hide_border=true" alt="Contribution Graph" />
-</p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
