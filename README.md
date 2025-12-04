@@ -8,6 +8,9 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=arya251223&label=Profile%20Views&color=2aa198&style=for-the-badge" alt="Profile Views" />
+  <a href="https://aryan-2512.netlify.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-2AA198?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
+  </a>
   <a href="https://www.linkedin.com/in/aryan-kamble-8m25122003"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="mailto:aryan.career@gmail.com"><img src="https://img.shields.io/badge/Gmail-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
   <a href="https://www.credly.com/users/aryan-kamble.713042fb"><img src="https://img.shields.io/badge/Credly-Verified-FF6B00?style=for-the-badge&logo=credly&logoColor=white" alt="Credly"/></a>
@@ -276,6 +279,9 @@ I'm looking for **AI/ML Engineer internships and entry-level positions** where I
 <br>
 
 <p>
+  <a href="https://aryan-2512.netlify.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-2AA198?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
+  </a>
   <a href="mailto:aryan.career@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
