@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,1,2,3&height=250&section=header&text=Aryan%20Kamble&fontSize=60&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20%7C%20ML%20Engineer%20%7C%20GenAI%20Developer&descAlignY=55&descSize=18" alt="Header"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,1,2,3&height=250&section=header&text=Hi,%20I'm%20Aryan!&fontSize=60&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20%7C%20ML%20Engineer%20%7C%20GenAI%20Developer&descAlignY=55&descSize=18" alt="Header"/>
 </p>
 
 <h1 align="center">
@@ -253,10 +253,10 @@ Empathetic AI assistant providing **personalized mental health support** using a
 ## 💼 Professional Experience
 
 ### 🔹 **Artificial Intelligence Intern**
-**Rajaj.Tech** | Remote | *August 2025 - September 2025*
+**Rajaj.Tech** | Remote | *August 2024 - September 2024*
 
 ### 🔹 **AI/ML Project Development**
-**Independent Learning & Projects** | *2025 - Present*
+**Independent Learning & Projects** | *2023 - Present*
 - 🚀 Developed **7+ production-ready AI/ML projects** from concept to deployment
 - 🤖 Specialized in **multi-agent systems**, **deep learning**, and **GenAI applications**
 - 📚 Continuous learning through hands-on implementation of cutting-edge AI technologies
