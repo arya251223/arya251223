@@ -256,7 +256,7 @@ Empathetic AI assistant providing **personalized mental health support** using a
 ## 💼 Professional Experience
 
 ### 🔹 **Artificial Intelligence Intern**
-**Rajaj.Tech** | Remote | *August 2024 - September 2024*
+**Rajaj.Tech** | Remote | *August 2025 - September 2025*
 
 ### 🔹 **AI/ML Project Development**
 **Independent Learning & Projects** | *2023 - Present*
