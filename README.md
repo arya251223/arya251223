@@ -24,7 +24,7 @@
 
 </div>
 
-I'm **Aryan Kamble**, an AI & ML Engineering student passionate about building intelligent systems that solve real-world problems. Currently pursuing my **Bachelor's in AI & Data Science** (CGPA: **8.2/10.0**) at KLE College of Engineering and Technology, Belagavi (2022-2026).
+I'm **Aryan Kamble**, an AI & ML Engineering student passionate about building intelligent systems that solve real-world problems. Currently pursuing my **Bachelor's in AI & Data Science** (CGPA: **8.2/10.0**) at KLE College of Engineering and Technology, Chikodi Belagavi (2022-2026).
 
 🎯 **Current Status:** Actively seeking **AI/ML Engineer Internships & Entry-Level Positions**
 
